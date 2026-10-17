@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "878e802cf97ae07ce83ffd16",
+  "owner": "vwuubtacf",
+  "repo": "page-f54371ce3ea8c48f4fe365b9",
+  "title": "卡路里(calorie)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f54371ce3ea8c48f4fe365b9",
+      "a": "卡路里(calorie)",
+      "b": "",
+      "entity": "卡路里(calorie)",
+      "brand": "卡路里(calorie)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2d2a5fbe4f05e4005635a580c076b8a3d55a2b91d8fa7937329fe710f8ff81f4",
+      "content": {
+        "keyword1": "卡路里(calorie)",
+        "keyword2": "",
+        "primary_entity": "卡路里(calorie)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "卡路里(calorie)帮你把一餐拆成可核对的数字。短句说明、对照表、常见问答，页面里写完。",
+          "AI_DESCRIPTION": "卡路里(calorie)帮你把一餐拆成可核对的数字。短句说明、对照表、常见问答，页面里写完。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#0a0a0a;color:#e8e8e8;font-family:ui-sans-serif,system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",sans-serif;line-height:1.55}\na{color:#39ff14;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1120px;margin:0 auto;padding:20px 16px 72px}\n.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:28px;align-items:stretch;padding:28px 0 48px;border-bottom:1px solid #1f1f1f}\n.h1{font-size:clamp(2.1rem,6vw,3.6rem);letter-spacing:.04em;color:#39ff14;line-height:1.05;margin:12px 0 16px}\n.lead{font-size:1.05rem;max-width:36em}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:22px;font-size:.9rem}\n.anchors a{border:1px solid #39ff14;padding:6px 10px;border-radius:999px}\n.panel{background:#111;border-radius:28px;box-shadow:0 18px 40px rgba(0,0,0,.45);padding:22px 22px 8px}\n.panel h2{color:#39ff14;font-size:1rem;margin-bottom:12px;letter-spacing:.12em;text-transform:uppercase}\n.panel dl{display:grid;grid-template-columns:88px 1fr;gap:10px 12px;padding-bottom:14px;border-bottom:1px solid #222;margin-bottom:14px}\n.panel dt{color:#8a8a8a;font-size:.85rem}\n.panel dd{font-size:.95rem}\n.panel p{font-size:.9rem;color:#cfcfcf;padding-bottom:14px}\nsection{padding:48px 0;border-bottom:1px solid #1a1a1a}\nh2{font-size:1.45rem;margin-bottom:8px;color:#f3f3f3}\n.h2sub{color:#9a9a9a;margin-bottom:22px;font-size:.95rem}\n.cards{display:grid;grid-template-columns:1fr 1fr;gap:18px}\n.card{background:#121212;border-radius:28px;box-shadow:0 16px 36px rgba(0,0,0,.4);padding:22px}\n.card h3{color:#39ff14;margin-bottom:8px;font-size:1.05rem}\n.card ol{padding-left:1.2em}\n.card li{margin:6px 0}\n.wrap{overflow-x:auto}\ntable{width:100%;border-collapse:separate;border-spacing:0;min-width:640px;background:#111;border-radius:28px;box-shadow:0 16px 36px rgba(0,0,0,.4);overflow:hidden}\nth,td{padding:14px 16px;text-align:left;border-bottom:1px solid #222;vertical-align:top;font-size:.92rem}\nth{background:#0d0d0d;color:#39ff14;font-weight:600}\ntr:last-child td{border-bottom:none}\n.mark{display:inline-block;margin-left:6px;border:1px solid #39ff14;color:#39ff14;font-size:.7rem;padding:1px 6px;border-radius:999px}\n.faq{display:grid;grid-template-columns:1fr 1fr;gap:18px}\n.qa{background:#121212;border-radius:28px;box-shadow:0 16px 36px rgba(0,0,0,.4);padding:20px}\n.qa h3{font-size:1rem;margin-bottom:8px;color:#39ff14}\n.note{font-size:.9rem;color:#bdbdbd}\nfooter{padding:28px 0 8px;font-size:.8rem;color:#777}\n@media(max-width:800px){\n.hero,.cards,.faq{grid-template-columns:1fr}\n.panel dl{grid-template-columns:1fr}\n}\n</style><main>\n<header class=\"hero\">\n<div>\n<p class=\"note\">页内跳转</p>\n<h1 class=\"h1\">卡路里(calorie)</h1>\n<p class=\"lead\">先写这一口有多重。再写它从哪来。数字落纸上，就不靠感觉硬撑。</p>\n<nav class=\"anchors\">\n<a href=\"#how\">使用说明</a>\n<a href=\"#plans\">对照套餐</a>\n<a href=\"#clients\">记录入口</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n<aside class=\"panel\">\n<h2>当面信息</h2>\n<dl>\n<dt>品牌</dt>\n<dd>卡路里(calorie)</dd>\n<dt>用途</dt>\n<dd>把餐次拆成可核对条目</dd>\n<dt>语气</dt>\n<dd>短句。不绕。</dd>\n<dt>价格</dt>\n<dd>见下方对照表。按月或按年。</dd>\n</dl>\n<p>没有节点名单。没有速度承诺。本页只谈记录方法与档位差异。</p>\n</aside>\n</header>\n\n<section id=\"how\">\n<h2>使用说明</h2>\n<p class=\"h2sub\">四步。做完就停。</p>\n<div class=\"cards\">\n<article class=\"card\">\n<h3>1. 称或估</h3>\n<ol>\n<li>能上秤就上秤。</li>\n<li>不能称，用家用量勺或包装克数。</li>\n<li>同一容器反复用，误差会小。</li>\n</ol>\n</article>\n<article class=\"card\">\n<h3>2. 记成分</h3>\n<ol>\n<li>主料、油、酱分开写。</li>\n<li>外食写店名加大致份量。</li>\n<li>饮料单独一行。</li>\n</ol>\n</article>\n<article class=\"card\">\n<h3>3. 对标签</h3>\n<ol>\n<li>看每份克数，不要只看“一份”。</li>\n<li>油炸、裹粉先加烹调油。</li>\n<li>不确定就标“估”，第二天校正。</li>\n</ol>\n</article>\n<article class=\"card\">\n<h3>4. 收工</h3>\n<ol>\n<li>当日合计看一眼即可。</li>\n<li>连续漏记就从下一餐重新开始。</li>\n<li>不需要把过往空白补成故事。</li>\n</ol>\n</article>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>对照套餐</h2>\n<p class=\"h2sub\">档位只区分记录容量与协助范围。不承诺减重结果。</p>\n<div class=\"wrap\">\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>基础版</th>\n<th>旗舰版 <span class=\"mark\">常用</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月费</td>\n<td>¥15/月</td>\n<td>¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>年付</td>\n<td>按年付仅需 ¥150/年</td>\n<td>按年付仅需 ¥350/年</td>\n<td>按年付仅需 ¥850/年</td>\n</tr>\n<tr>\n<td>月记录额度</td>\n<td>约 100 份餐次条目</td>\n<td>约 300 份餐次条目</td>\n<td>约 1000 份餐次条目</td>\n</tr>\n<tr>\n<td>同时使用席位</td>\n<td>3 人共用一份账本</td>\n<td>5 人共用一份账本</td>\n<td>20 人共用一份账本</td>\n</tr>\n<tr>\n<td>内容范围</td>\n<td>基础食材表与家常份量</td>\n<td>外食拆分、油盐单独行</td>\n<td>团体菜单模板、路由到各席位</td>\n</tr>\n<tr>\n<td>协助</td>\n<td>页面说明</td>\n<td>优先工单（时段以开通后告知为准）</td>\n<td>专人对接团体表头</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>记录入口</h2>\n<p class=\"h2sub\">没有已核实的安装包地址。用你手头的笔记工具即可。</p>\n<div class=\"cards\">\n<article class=\"card\">\n<h3>纸本</h3>\n<p>一页一天。左列食物，右列克数。晚间加总。</p>\n</article>\n<article class=\"card\">\n<h3>备忘录</h3>\n<p>固定三个标题：早、午、晚。酱料另起一行。</p>\n</article>\n<article class=\"card\">\n<h3>表格</h3>\n<p>日期、餐次、名称、克数、备注。周复制一行模板。</p>\n</article>\n<article class=\"card\">\n<h3>下载</h3>\n<p>官方客户端链接暂缺。地址未核实时不提供伪造按钮。需要时使用页内 <a href=\"#\">#</a> 占位，待有可靠来源再替换。</p>\n</article>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"h2sub\">双栏直答。</p>\n<div class=\"faq\">\n<article class=\"qa\">\n<h3>必须精确到个位数吗？</h3>\n<p>不必。先稳住份量习惯。油和饮料优先写清楚。</p>\n</article>\n<article class=\"qa\">\n<h3>外食怎么记？</h3>\n<p>写店名、主食、配菜、饮品。份量写“一碗/半份”。回家再对照近似条目。</p>\n</article>\n<article class=\"qa\">\n<h3>漏记一整天怎么办？</h3>\n<p>空着。从下一餐继续。不要补造数字。</p>\n</article>\n<article class=\"qa\">\n<h3>套餐能退吗？</h3>\n<p>本页没有退款条款可引用。下单前以实际开通说明为准。</p>\n</article>\n<article class=\"qa\">\n<h3>这是不是加速或节点服务？</h3>\n<p>不是。卡路里(calorie)在本页只谈热量记录。不提供线路、解锁或设备加速陈述。</p>\n</article>\n<article class=\"qa\">\n<h3>团队版给谁？</h3>\n<p>给需要多席位共用一份菜单账本的小组。不是企业身份背书。</p>\n</article>\n</div>\n</section>\n<footer>卡路里(calorie) · 静态说明页 · 事实未提供处保持空白</footer>\n</main>",
+          "hash": "aa3369f4db5928ce826c7f9e681e9d1613874d07603c1f4facd62d813653a1d5",
+          "seo": {
+            "title": "卡路里(calorie)｜记账热量，不讲空话",
+            "keywords": "卡路里,calorie,热量记录,饮食笔记,份量对照",
+            "description": "卡路里(calorie)帮你把一餐拆成可核对的数字。短句说明、对照表、常见问答，页面里写完。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "920",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bdnjob.cn",
+    "host": "p-55b3f36fb3.bdnjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "48f77bacdb0d9539f14be9fa51d26eb9b450365f245880fe68813e549885ebb1",
+    "sitemap.xml": "5ea0529ac565ce7d223c3bc20b31a0fb8c084346dadbb0966e5707aec0ccb643",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3a4237b0fc198ccef17c465c4601345c5315fd464962ab1886ad75d051256483",
+    "robots.txt": "df0b0e0e8c77b42cacc4473e76517711af55994d429ed0ad163744f6776b63ed",
+    "b7cc8a32da5ca3cde4e39ec865faf2d5.txt": "97a314df4e34c45cb8021e4e3b3077de9e2193066e3fda7ee837ed2ddc9067ba"
+  },
+  "revision": "cf1423beeed4f66963aae4b8897f79a31ae5a29c64c8f62815e0df46b4ac8ab7"
+}
